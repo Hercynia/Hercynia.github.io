@@ -23,6 +23,7 @@ We can also write...
 [this is some reference text]: https://www.google.com
 
 Images are easy too:
+
 ![A badly-drawn red smiley face](https://github.com/Hercynia/Hercynia.github.io/blob/main/RandomImage.png "This image is made by me, and therefore does not violate any copyright law.")
 
 If we want to, we can even make inline code blocks, `like this`
