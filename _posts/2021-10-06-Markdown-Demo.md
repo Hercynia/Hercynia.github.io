@@ -24,7 +24,7 @@ We can also write...
 
 Images are easy too:
 
-![A badly-drawn red smiley face](https://github.com/Hercynia/Hercynia.github.io/blob/main/RandomImage.png  "This image is made by me, and therefore does not violate any copyright law.")
+![A badly-drawn red smiley face](https://raw.githubusercontent.com/Hercynia/Hercynia.github.io/main/RandomImage.png  "This image is made by me, and therefore does not violate any copyright law.")
 
 If we want to, we can even make inline code blocks, `like this`
 We can write whole blocks of code, too, instead of making it just inline, for example:
